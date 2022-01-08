@@ -103,6 +103,10 @@ section h3 {
 .service {
   background-color: #f9f9f9;
 }
+
+.rounded-corners {
+  border-radius: 75px;
+}
 .box {
   color: #148f77;
 }
